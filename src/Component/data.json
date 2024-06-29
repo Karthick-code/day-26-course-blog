@@ -1,0 +1,22 @@
+[
+    {
+        "name": "FullStack Development",
+        "poster": "https://oilab.in/public/img/courses/full-stack-web-developer.jpg",
+        "href":"https://www.guvi.in/zen-class/full-stack-development-course/#course-syllabus"
+    },
+    {
+        "name": "DataScience",
+        "poster": "https://thumbs.dreamstime.com/z/big-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg?w=992",
+        "href":"https://www.guvi.in/zen-class/data-science-course/#course-syllabus"
+    },
+    {
+        "name": "Cyber Security",
+        "poster": "https://iirfranking.com/courses/wp-content/uploads/2022/07/Cyber-Security.jpeg",
+        "href":"https://www.guvi.in/courses/network-and-security/cyber-security-ethical-hacking-beginners/"
+    },
+    {
+        "name": "Python",
+        "poster": "https://trisectinstitute.com/wp-content/uploads/2021/12/best-python-training.png",
+        "href":"https://www.guvi.in/courses/programming/python-zero-to-hero/"
+    }
+]
