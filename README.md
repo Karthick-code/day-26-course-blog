@@ -1,2 +1,3 @@
 this file belongs to karthick
-course blog 
+it includes
+    every separate component for each button named all, fullstack, datascience, carrer

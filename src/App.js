@@ -20,7 +20,7 @@ function App() {
       <AppBar position="static" style={{ marginBottom: "20px" }}>
         <Toolbar style={{ justifyContent: "center" }}>
           <div className="nav">
-            <Button className="active" variant="text" color="inherit" onClick={() => navigate("/all")}>All</Button>
+            <Button  variant="text" color="inherit" onClick={() => navigate("/")}>All</Button>
             <Button variant="text" color="inherit" onClick={() => navigate("fullstack")}>Fullstack Development</Button>
             <Button variant="text" color="inherit" onClick={() => navigate("/datascience")}>DataScience</Button>
             <Button variant="text" color="inherit" onClick={() => navigate("/cyberSecurity")}>Cybersecurity</Button>
@@ -37,7 +37,7 @@ function App() {
         </ul>
       </nav> */}
       <Routes>
-        <Route path="/all" element={<All />} />
+        <Route path="/" element={<All />} />
         <Route path="/fullstack" element={<Fullstack />} />
         <Route path="/datascience" element={<Datascience />} />
         <Route path="/cyberSecurity" element={<Cybersecurity />} />
