@@ -4,7 +4,7 @@ import { All } from './Component/All';
 import { Fullstack } from './Component/Fullstack';
 import { Datascience } from './Component/Datascience';
 import { Career } from './Component/Career';
-import { Route, Routes, useNavigate, Link } from 'react-router-dom';
+import { Route, Routes, Link } from 'react-router-dom';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Button from '@mui/material/Button';
