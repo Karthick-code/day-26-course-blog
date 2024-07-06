@@ -1,13 +1,11 @@
 .nav-bar {
-  margin-top: 10px;
+  margin: 10px;
   justify-content: center;
   border-radius: 2px;
-  display: flex;
+  display:flex;
+  
 }
 
-#li {
-  display: inline;
-}
 
 .card{
   margin-top: 20px ;
