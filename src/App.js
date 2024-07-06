@@ -11,7 +11,7 @@ import Button from '@mui/material/Button';
 import { Cybersecurity } from './Component/Cybersecurity';
 
 function App() {
-  var navigate = useNavigate();
+  // var navigate = useNavigate();
   return (
     <div className="App">
       <div style={{marginTop:"20px"}}>
